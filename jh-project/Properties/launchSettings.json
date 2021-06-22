@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "jh-project": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionEndpoint": "https://api.twitter.com/2/tweets/sample/stream",
+        "Redis_Port": "6379",
+        "Redis_Endpoint": "127.0.0.1",
+        "ConsumerKey": "spBeB8M898Yz8W4p8ucpSr0SE",
+        "InternalBatchingSize": "250",
+        "AuthorizationToken": "AAAAAAAAAAAAAAAAAAAAAC46QwEAAAAACgdIbvZ2kgkJ%2BIzUEL0%2B01Gi1u8%3DGccgHoreba2DVxUhiEqVzFU8pTqOdr0bwGAAwuuw0jOvycG9p3",
+        "ConsumerSecret": "H0D9wWEi3YnTvWuA5ExrrIc6kT6HYZYEd7bZ2iSQoqrNtiMagQ"
+      }
+    }
+  }
+}

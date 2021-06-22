@@ -1,0 +1,11 @@
+Twitter Sample Stream Report: 06-21-2021-22-01-10
+Total Tweets: 101
+Top Trending Hashtag: TestTag
+Contains URL Percentage: 50
+Contains Photo URL Percentage: 0
+Top Trending Domain: www.w3.org
+Tweet Rate Per Hour: ∞
+Tweet Rate Per Minute: ∞
+Tweet Rate Per Second: ∞
+Top Emoji: 
+Contains Emoji Percentage: 0
